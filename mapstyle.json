@@ -21,7 +21,7 @@
       "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=YM3H6waGhiYrXuxUB2w0"
     }
   },
-  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=YM3H6waGhiYrXuxUB2w0L",
+  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=YM3H6waGhiYrXuxUB2w0",
   "layers": [
     {
       "id": "background",
